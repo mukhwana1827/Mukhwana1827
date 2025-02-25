@@ -54,5 +54,8 @@ src="https://img.shields.io/github/followers/Mukhwana1827?logo=github&style=for-
 </ul>*For the graph you can use this code:* 
 
 <a href="https://github.com/Mukhwana1827">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"
+
+<a href="https://github.com/your-username">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </a>
